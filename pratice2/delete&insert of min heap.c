@@ -57,7 +57,6 @@ int main()
     return 0;
 }
 
-/* Your function will be put here */
 void PercolateUp( int p, PriorityQueue H ){
     int i;
     int x=H->Elements[p];
